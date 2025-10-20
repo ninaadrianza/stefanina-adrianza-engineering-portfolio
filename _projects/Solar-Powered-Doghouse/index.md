@@ -12,7 +12,6 @@ Pneumatic Storage Accessibility: We incorporated pneumatic mechanisms that allow
 Thermal and Ventilation Design: To reduce heat buildup, we chose neutral gray tones and implemented higher ceilings with high “windows” for optimal airflow and natural ventilation.
 
 Solar Power Integration: The doghouse was designed to include solar panels to supply energy for the pneumatic system and other electronic components, making the design self-sustainable.
-
 This project was an introduction to combining mechanical design, sustainability, and user-centered engineering, giving me practical experience in prototyping, testing, and applying engineering principles in a real-world application.
 
 skills: 
