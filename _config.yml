@@ -7,20 +7,20 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Stefanina Adrianza's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Stefanina Adrianza
+headline: Mechanical Engineering Student
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ I'm Stefanina Adrianza, a Mechanical Engineering Student at the University of Georgia
+ passionate about innovative design, sustainability, and community impact
+ 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: 
 
 
 # Link your resume
