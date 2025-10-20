@@ -48,6 +48,11 @@ skills:
     - Inventor (Autodesk)
     - Revit (Autodesk)
     - SolidWorks
+  - category: Programming Languages
+    tools:
+    - Java
+    - C++
+    - Phython
   - category: Prototyping
     tools:
     - Arduino / Raspberry Pi
