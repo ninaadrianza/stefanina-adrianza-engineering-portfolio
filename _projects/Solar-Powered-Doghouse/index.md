@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Solar=Powered Doghouse
-description: 
-For my first engineering project, I designed and built a fully functional Smart Doghouse over the course of five months, funded by Cooper Carry through my school’s Innovation Academy. The project followed a structured five-phase design thinking process, moving systematically through research, prototyping, 3D printing, woodworking, testing, and final completion.
+description: For my first engineering project, I designed and built a fully functional Smart Doghouse over the course of five months, funded by Cooper Carry through my school’s Innovation Academy. The project followed a structured five-phase design thinking process, moving systematically through research, prototyping, 3D printing, woodworking, testing, and final completion.
 
 The Smart Doghouse integrated several innovative features focused on comfort, accessibility, and sustainability:
 
